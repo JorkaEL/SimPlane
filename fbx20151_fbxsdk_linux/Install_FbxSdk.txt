@@ -1,0 +1,45 @@
+======================================
+
+Autodesk FBX SDK Installation Instructions
+
+======================================
+
+INTRODUCTION
+
+This file describes the installation procedure
+for the Autodesk FBX SDK version 2015.1.
+______________________________________
+PACKAGE CONTENT
+
+The distribution .tar file contains the following files:
+    - Install_FbxFileSdk.txt: This file.
+    - FBX20151_FBXFILESDK_LINUX: The FBX SDK version 2015.1
+      installation program.
+______________________________________  
+INSTALLATION INSTRUCTIONS
+
+The installation program will install the FBX SDK under
+the specified directory.
+
+1) Make sure you have execution permission on the installation
+   program (FBX20151_FBXFILESDK_LINUX):
+      % chmod ugo+x FBX20151_FBXFILESDK_LINUX
+      
+2) Execute the installation program. You must provide an
+   installation directory as a parameter. For example, if
+   you wish to install the FBX SDK under /usr/FBX20151_FBXFILESDK_LINUX
+   type the following command:
+      % ./FBX20151_FBXFILESDK_LINUX /usr
+      
+   Note that you must agree to the terms of the END USER
+   LICENSE AGREEMENT in order to complete the installation.
+______________________________________
+FOR MORE INFORMATION
+
+Please read the accompanying readme.txt file for more details
+on the new features and known limitations of this version
+of the FBX SDK.
+
+Thank you for using the FBX SDK,
+The FBX SDK Team.
+

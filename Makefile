@@ -31,8 +31,8 @@ BINDIR      = .
 OBJDIR      = .
 
 ##### Mettre le chemin vers les include et les libs du sdk
-INCDIR      = /home/xavier/Téléchargements/fbx20151_fbxsdk_linux/include
-LIBDIR      = /home/xavier/Téléchargements/fbx20151_fbxsdk_linux/lib/gcc4/x64/release
+INCDIR      = fbx20151_fbxsdk_linux/include
+LIBDIR      = fbx20151_fbxsdk_linux/lib/gcc4/x64/release
 
 COMMONDIR   = Common
 
